@@ -1,3 +1,3 @@
-# Medium (medium.com) Üzerinden Paylaşmış olduğum "REST API Versiyonlama" İsimli Yazımın Örnek Kodu
+# Medium (medium.com) Üzerinden Paylaşmış olduğum "Spring Boot Lazy Initialization" İsimli Yazımın Örnek Kodu
 
-[Yazıya ulaşmak için tıklayın](https://medium.com/@metinalniacik/rest-api-versiyonlama-9f1c89bfbdee)
+[Yazıya ulaşmak için tıklayın](https://medium.com/@metinalniacik/spring-boot-lazy-initialization-93c720c7274a)
